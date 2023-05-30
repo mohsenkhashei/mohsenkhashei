@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Technology 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via [mohsenkhasheii@gmail.com](emailto:mohsenkhasheii@gmail.com).
+- 📫 How to reach me via [muhsenkhasheii@gmail.com](emailto:mohsenkhasheii@gmail.com).
 
 <!---
 mohsenkhashei/mohsenkhashei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
